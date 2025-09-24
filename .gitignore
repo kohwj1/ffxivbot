@@ -1,0 +1,7 @@
+botenv/
+__pycache__/
+model/
+fortune.py
+.env
+.venv
+bot_ast.py
