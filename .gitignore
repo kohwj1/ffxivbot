@@ -5,3 +5,4 @@ fortune.py
 .env
 .venv
 bot_ast.py
+bot_othergames.py
